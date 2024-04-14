@@ -11,12 +11,12 @@
 
 </h5>
 <br>
-<h4 align="center" size ="50px" >
+<h3 align="center" size ="50px" >
   
   Hi, I'm Mahmoud Mostafa, Junior Computer Engineering and Front-end Developer 
   <br>
   <br>
-  🔬 I'm currently studying for at AinShams Unversity, Department of Computer Engineering
+  🔬 I'm currently studying  at AinShams Unversity, Department of Computer Engineering
   <br>
   <br>
   🎓 I graduated from Geel Almost2bal High School
@@ -28,7 +28,7 @@
     <br>
       <br>
   📫 How to reach me: <a href="mail: mahmoud2030m@gmail.com">mahmoud2030m@gmail.com</a>
-</h4>
+</h3>
 <div align="center">
 <img src="images/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
