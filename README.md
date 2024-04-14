@@ -45,6 +45,7 @@
   <code><img title="CSS" height="28" src="images/css.svg"></code>
   <code><img title="SASS" height="28" src="images/sass.svg"></code>
   <code><img title="React" height="28" src="images/react-original.svg"></code>
+  <code><img title="redux" height="28" src="images/redux.svg"></code>
   <code><img title="Git" height="28" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="28" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="28" src="images/visualstudio.png"></code>
