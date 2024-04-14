@@ -44,6 +44,7 @@
   <code><img title="HTML5" height="50" src="images/html5.svg"></code>
   <code><img title="CSS" height="50" src="images/css.svg"></code>
   <code><img title="SASS" height="50" src="images/sass.svg"></code>
+  <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
   <code><img title="React" height="50" src="images/react-original.svg"></code>
   <code><img title="redux" height="50" src="images/redux.svg"></code>
   <code><img title="Git" height="50" src="images/git-original.svg"></code>
@@ -52,6 +53,6 @@
   <br>
   <code><img title="Java" height="50" src="images/java-original.svg"></code>
   <code><img title="JSON" height="50" src="images/json.svg"></code>
-  <code><img title="GitHub" height="50" src="images/github.svg"></code>
+  <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="npm" height="50" src="images/npm.svg"></code>
 </p>
