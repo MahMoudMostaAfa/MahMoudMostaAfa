@@ -16,7 +16,7 @@
   Hi, I'm Mahmoud Mostafa, Junior Computer Engineering and Front-end Developer 
   <br>
   <br>
-  🔬 I'm currently studying  at AinShams Unversity, Department of Computer Engineering
+  🔬 I'm currently studying  at AinShams University, Department of Computer Engineering
   <br>
   <br>
   🎓 I graduated from Geel Almost2bal High School
