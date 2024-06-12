@@ -55,4 +55,6 @@
   <code><img title="JSON" height="50" src="images/json.svg"></code>
   <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="npm" height="50" src="images/npm.svg"></code>
+  <code><img title="react-query" height="50" src="images/logos--react-query-icon.svg"></code>
+  <code><img title="styled-components" height="50" src="images/styled-components.svg"></code>
 </p>
