@@ -58,6 +58,7 @@
   <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="react-query" height="50" src="images/logos--react-query-icon.svg"></code>
   <code><img title="styled-components" height="50" src="images/styled-components-1.svg"></code>
+  <code><img title="figma" height="50" src="images/figma-icon.svg"></code>
   <code><img title="Microsoft Visual Studio" height="50" src="images/visual-studio-code-1.svg"></code>
   <code><img title="Problem Solving" height="50" src="images/problemSolving.png"></code>
 </p>
