@@ -46,7 +46,7 @@
   <code><img title="SASS" height="50" src="images/sass.svg"></code>
   <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
   <code><img title="React" height="50" src="images/react-original.svg"></code>
-  <code><img style="color:white" title="Next js" height="50" src="images/next-js.svg"></code>
+  <code><img  title="Next js" height="50" src="images/next-js.svg"></code>
   <code><img title="redux" height="50" src="images/redux.svg"></code>
   <code><img title="typescript" height="50" src="images/typescript.svg"></code>
 
@@ -58,7 +58,6 @@
   <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="react-query" height="50" src="images/logos--react-query-icon.svg"></code>
   <code><img title="styled-components" height="50" src="images/styled-components.svg"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="50" src="images/visualstudio.png"></code>
+  <code><img title="Microsoft Visual Studio" height="50" src="images/visual-studio-code-1.png"></code>
   <code><img title="Problem Solving" height="50" src="images/problemSolving.png"></code>
 </p>
