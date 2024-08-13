@@ -51,6 +51,7 @@
   <code><img title="Problem Solving" height="50" src="images/problemSolving.png"></code>
 
   <br>
+  <br>
   <code><img title="Java" height="50" src="images/java-original.svg"></code>
   <code><img title="JSON" height="50" src="images/json.svg"></code>
   <code><img title="github" height="50" src="images/github.svg"></code>
