@@ -46,7 +46,9 @@
   <code><img title="SASS" height="50" src="images/sass.svg"></code>
   <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
   <code><img title="React" height="50" src="images/react-original.svg"></code>
-  <code><img title="Next js" height="50" src="images/next-js.svg"></code>
+  <code><img style={
+    {color:"white"}
+  } title="Next js" height="50" src="images/next-js.svg"></code>
   <code><img title="redux" height="50" src="images/redux.svg"></code>
   <code><img title="typescript" height="50" src="images/typescript.svg"></code>
 
