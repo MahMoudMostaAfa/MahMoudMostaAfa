@@ -13,7 +13,7 @@
 <br>
 <h3 align="center" size ="50px" >
   
-  Hi, I'm Mahmoud Mostafa, senior-1 Computer Engineering Student and FUll-Stack(MERN) Developer 
+  Hi, I'm Mahmoud Mostafa, senior-1 Computer Engineering Student and Full-Stack(MERN) Developer 
   <br>
   <br>
   🔬 I'm currently studying  at AinShams University, Department of Computer Engineering
@@ -25,7 +25,7 @@
   💻 I love writing code and learn anythings about it
   <br>
  
-      <br>
+     
   📫 How to reach me: <a href="mail: mahmoud2030m@gmail.com">mahmoud2030m@gmail.com</a>
 </h3>
 <div align="center">
