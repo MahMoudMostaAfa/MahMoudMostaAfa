@@ -13,7 +13,7 @@
 <br>
 <h3 align="center" size ="50px" >
   
-  Hi, I'm Mahmoud Mostafa, senior-1 Computer Engineering Student and Front-end(react js) Developer 
+  Hi, I'm Mahmoud Mostafa, senior-1 Computer Engineering Student and FUll-Stack(MERN) Developer 
   <br>
   <br>
   🔬 I'm currently studying  at AinShams University, Department of Computer Engineering
@@ -24,8 +24,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Fullstack Web Development
-    <br>
+ 
       <br>
   📫 How to reach me: <a href="mail: mahmoud2030m@gmail.com">mahmoud2030m@gmail.com</a>
 </h3>
