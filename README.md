@@ -53,6 +53,9 @@
   <br>
   <br>
   <code><img title="supabase" height="50" src="images/supabase.svg"></code>
+  <code><img title="nodejs" height="50" src="images/nodejs.svg"></code>
+  <code><img title="express" height="50" src="images/express.svg"></code>
+  <code><img title="mongodb" height="50" src="images/mongodb.svg"></code>
   <code><img title="Git" height="50" src="images/git-original.svg"></code>
   <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="react-query" height="50" src="images/logos--react-query-icon.svg"></code>
