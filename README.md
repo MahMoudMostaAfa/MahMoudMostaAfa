@@ -62,6 +62,7 @@
   <code><img title="styled-components" height="50" src="images/styled-components-1.svg"></code>
   <code><img title="figma" height="50" src="images/figma-icon.svg"></code>
   <code><img title="ps" height="50" src="images/adobe-photoshop-2.svg"></code>
+  <code><img title="ai" height="50" src="images/ai.png"></code>
   <code><img title="Microsoft Visual Studio" height="50" src="images/visual-studio-code-1.svg"></code>
   <code><img title="Problem Solving" height="50" src="images/problemSolving.png"></code>
 </p>
