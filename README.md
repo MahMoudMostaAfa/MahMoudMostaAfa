@@ -61,6 +61,7 @@
   <code><img title="github" height="50" src="images/github.svg"></code>
   <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
   <code><img title="styled-components" height="50" src="images/styled-components-1.svg"></code>
+  <code><img title="framer-motion" height="50" src="images/framer-motion.svg"></code>
   <code><img title="figma" height="50" src="images/figma-icon.svg"></code>
   <code><img title="ps" height="50" src="images/adobe-photoshop-2.svg"></code>
   <code><img title="ai" height="50" src="images/ai.png"></code>
