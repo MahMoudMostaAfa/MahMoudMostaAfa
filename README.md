@@ -41,6 +41,8 @@
   <code><img title="Java" height="50" src="images/java-original.svg"></code>
   <code><img title="Javascript" height="50" src="images/javascript.svg"></code>
   <code><img title="typescript" height="50" src="images/typescript.svg"></code>
+  <br>
+  <br>
   <code><img title="HTML5" height="50" src="images/html5.svg"></code>
   <code><img title="CSS" height="50" src="images/css.svg"></code>
   <code><img title="SASS" height="50" src="images/sass.svg"></code>
@@ -49,6 +51,9 @@
   <code><img  title="react router" height="50" width="50" src="images/react-router.svg"></code>
   <code><img title="redux" height="50" src="images/redux.svg"></code>
   <code><img title="react-query" height="50" src="images/logos--react-query-icon.svg"></code>
+  <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
+  <code><img title="styled-components" height="50" src="images/styled-components-1.svg"></code>
+  <code><img title="framer-motion" height="50" src="images/framer-motion.svg"></code>
 
 
   <br>
@@ -59,9 +64,6 @@
   <code><img title="mongodb" height="50" src="images/mongodb.svg"></code>
   <code><img title="Git" height="50" src="images/git-original.svg"></code>
   <code><img title="github" height="50" src="images/github.svg"></code>
-  <code><img title="tailwind" height="50" src="images/tailwind-svgrepo-com.svg"></code>
-  <code><img title="styled-components" height="50" src="images/styled-components-1.svg"></code>
-  <code><img title="framer-motion" height="50" src="images/framer-motion.svg"></code>
   <code><img title="figma" height="50" src="images/figma-icon.svg"></code>
   <code><img title="ps" height="50" src="images/adobe-photoshop-2.svg"></code>
   <code><img title="ai" height="50" src="images/ai.png"></code>
