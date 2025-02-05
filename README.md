@@ -69,3 +69,6 @@
   <code><img title="ai" height="50" src="images/ai.png"></code>
   <code><img title="Microsoft Visual Studio" height="50" src="images/visual-studio-code-1.svg"></code>
 </p>
+<br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahMoudMostaAfa&show_icons=true&theme=tokyonight)  
+
