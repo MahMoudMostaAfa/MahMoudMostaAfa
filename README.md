@@ -13,7 +13,7 @@
 <br>
 <h3 align="center" size ="50px" >
   
-  Hi, I'm Mahmoud Mostafa, senior-1 Computer Engineering Student and Full-Stack(MERN) Developer 
+  Hi, I'm Mahmoud Mostafa, senior-2 Computer Engineering Student and Full-Stack .NET Developer 
   <br>
   <br>
   🔬 I'm currently studying  at AinShams University, Department of Computer Engineering
