@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mmostafaa2002/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+
 
 </h5>
 <br>
@@ -26,7 +26,7 @@
   <br>
  
      
-  📫 How to reach me: <a href="mail: mahmoud2030m@gmail.com">mahmoud2030m@gmail.com</a>
+
 </h3>
 <div align="center">
 <img src="images/coderman.gif" alt="Coder" width="400" height="250" />
